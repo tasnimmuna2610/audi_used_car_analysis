@@ -1,6 +1,6 @@
 # audi_used_car_analysis
 
-This is a full project on analysis of used AUDI cars.
+This is a full project on analysis of used AUDI cars. <b>
 Original data source: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw-ford-hyundai-skoda-vw
 Here
 
