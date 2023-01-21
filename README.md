@@ -1,6 +1,6 @@
 # audi_used_car_analysis
 
-This is a full project on analysis of used AUDI cars. <br>
+This is a full project on analysis of used AUDI cars. Apart from that, I've applied ML Algorithm here. <br>
 Original data source: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw-ford-hyundai-skoda-vw
 Here
 
@@ -9,3 +9,4 @@ Here
 3. Made histogram and distribution plot to show how prices varied with numbers of cars bought.
 4. Plotted ECDF to show the feature of car prices with numer of cars bought, it's probability and probability varied by different types of transmissions.
 5. Created boxplots of different numeric variables and it's change with transmission
+Besides, I've applied **Linear Regression Algorithm** for predicting price of AUDI cars using used ones.
